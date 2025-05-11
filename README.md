@@ -1,4 +1,4 @@
-# 📄 Text-to-Audio Web App using AWS (PDF to MP3 + Email Delivery)
+# 📄 Text-to-Audio Convertor Web App using AWS (PDF to MP3 + Email Delivery)
 
 This project is a **real-world, serverless web application** built on AWS that allows users to:
 
